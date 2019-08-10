@@ -6,20 +6,27 @@ Installation Instructions The following node modules must be installed in order 
 
 To run the application clone this repository to your computer and thn run the following commands from a bash command line.
 
-node liri.js concert-this <artist/band name here> - This will return upcoming concert information from Bands in Town.
+# node liri.js 
+concert-this <artist/band name here> This will return upcoming concert information from Bands in Town.
 
-node liri.js spotify-this-song '' - This will return song information from Spotify.
+<img width="940" alt="concert-this" src="https://user-images.githubusercontent.com/47234767/62826212-d1aeb900-bb74-11e9-8c39-dc3d8d5ff9e2.png">
 
-node liri.js movie-this '' - This will return information about movies from OMDB.
+# node liri.js 
+spotify-this-song This will return song information from Spotify.
 
-node liri.js do-what-it-says - This will run a special command that is stored in a text file.
+<img width="951" alt="spotify-this-song" src="https://user-images.githubusercontent.com/47234767/62826215-d1aeb900-bb74-11e9-8019-4122cbcda64a.png">
 
-<img width="1097" alt="concert-this" src="https://user-images.githubusercontent.com/47234767/61597178-5dfb3b00-abca-11e9-9096-9a317b358914.png">
+# node liri.js 
+movie-this This will return information about movies from OMDB.
 
-<img width="951" alt="do-what-it-says" src="https://user-images.githubusercontent.com/47234767/61597179-5dfb3b00-abca-11e9-9dab-a31fd07f1b8e.png">
+<img width="951" alt="movie-this" src="https://user-images.githubusercontent.com/47234767/62826214-d1aeb900-bb74-11e9-8328-de1e958ecfbd.png">
 
-<img width="951" alt="do-what-it-says2" src="https://user-images.githubusercontent.com/47234767/61597340-9dc32200-abcc-11e9-9a7f-78b25e7631fd.png">
+# node liri.js 
+do-what-it-says This will run a special command that is stored in a text file.
 
-<img width="951" alt="movie-this" src="https://user-images.githubusercontent.com/47234767/61597180-5dfb3b00-abca-11e9-854e-9b38c8e72b78.png">
+<img width="951" alt="do-what-it-says2" src="https://user-images.githubusercontent.com/47234767/62826211-d1aeb900-bb74-11e9-8620-5d0c466b7501.png">
 
-<img width="951" alt="spotify-this-song" src="https://user-images.githubusercontent.com/47234767/61597181-5dfb3b00-abca-11e9-9e00-cb5f15c8dabb.png">
+
+
+<img width="951" alt="do-what-it-says" src="https://user-images.githubusercontent.com/47234767/62826213-d1aeb900-bb74-11e9-80fd-6ffbef92e496.png">
+
